@@ -1,0 +1,6 @@
+{
+  "name": "Punjab Boutique - Digital Showcase & WhatsApp Enquiry",
+  "description": "A luxury concept digital boutique catalogue and WhatsApp enquiry demo for Punjab Boutique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
